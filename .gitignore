@@ -1,0 +1,17 @@
+backend/.venv/
+backend/.cache/
+backend/weights/
+backend/data/
+backend/logs/
+backend/samples/output/
+backend/samples/*.jpg
+backend/.pytest_tmp/
+.pip-cache/
+.tmp/
+frontend/node_modules/
+frontend/dist/
+**/__pycache__/
+**/.pytest_cache/
+*.pyc
+.env
+*.part
